@@ -33,11 +33,11 @@ location: Bhopal, India
 status: 🟢 Active
 
 education:
-  degree: "B.Tech in Cyber Security"
+  degree: B.Tech in Cyber Security
   
 certifications:
-  - name: "CNSP (Certified Network Security Practitioner)"
-    score: "85%"
+  - name: CNSP (Certified Network Security Practitioner)
+    score: 85%
 
 ```
 
