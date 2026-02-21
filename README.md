@@ -34,17 +34,11 @@ status: 🟢 Active
 
 education:
   degree: "B.Tech in Cyber Security"
-  college: "LNCT Group of Colleges"
-  graduation: "June 2027"
-  semester: "6th"
-
+  
 certifications:
   - name: "CNSP (Certified Network Security Practitioner)"
     score: "85%"
 
-academics:
-  schooling: "Completed 2023"
-  pcm_percentage: "80.2%"
 ```
 
 ---
@@ -52,29 +46,18 @@ academics:
 ## 🎯 Currently
 
 ```python
-class CurrentFocus:
-    def working_on(self):
-        return [
-            "Web Application Security Testing",
-            "Offensive Security Concepts", 
-            "Vulnerability Assessment & Penetration Testing",
-            "Security Monitoring Tools Development"
-        ]
+Web Application Security Testing,
+Offensive Security Concepts,
+Vulnerability Assessment & Penetration Testing,
+Security Monitoring Tools Development
     
-    def learning(self):
-        return [
-            "Advanced Web Exploitation (XSS, SQLi, CSRF)",
-            "Network Security & Traffic Analysis",
-            "Python for Security Automation",
-            "Bug Bounty Hunting Methodologies"
-        ]
-    
-    def objectives(self):
-        return {
-            "goal": "Secure stipend-based remote cybersecurity internship",
-            "start": "7th Semester (in ~3-4 months)",
-            "long_term": "High-paying cybersecurity role"
-        }
+Advanced Web Exploitation (XSS, SQLi, CSRF),
+Network Security & Traffic Analysis,
+Python for Security Automation,
+Bug Bounty Hunting Methodologies
+
+
+     
 ```
 
 ---
