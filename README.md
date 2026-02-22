@@ -95,8 +95,8 @@ Platform:    Linux
 Status:      ✅ Completed
 
 Description:
-  A Linux-based security monitoring utility designed to observe 
-  incoming files and system activity to help identify potentially 
+  A Linux-based security monitoring utility designed to observe
+  incoming files and system activity to help identify potentially
   harmful content using lightweight scanning logic.
 
 Features:
@@ -105,6 +105,55 @@ Features:
   • Lightweight scanning logic
   • Threat detection alerts
 ```
+
+---
+
+## 🧪 Security Labs & Writeups
+
+### Lab 02: Stored XSS into HTML Context
+
+```yaml
+Lab: "PortSwigger Web Security Academy - Lab 2"
+Category: "Cross-Site Scripting (XSS)"
+Type: "Stored XSS"
+Context: "HTML Context (Nothing Encoded)"
+Status: "✅ SOLVED"
+Difficulty: "Apprentice"
+
+Vulnerability Details:
+  Issue: "Stored XSS vulnerability in the comment section"
+  Context: "HTML context with no input encoding"
+  Payload: "<script>alert(1)</script>"
+  Technical Failure: "User input directly rendered as HTML without sanitization"
+
+Impact Assessment:
+  Severity: "HIGH"
+  Risks:
+    - "Session hijacking via cookie theft"
+    - "User credential phishing"
+    - "Malicious redirect attacks"
+    - "Defacement and content manipulation"
+    - "Information leakage about users"
+
+Exploitation:
+  Method: "Injected JavaScript payload in comment form"
+  Trigger: "Any user viewing the compromised comment"
+  Persistence: "Stored permanently until removed"
+
+Remediation:
+  - "Implement proper HTML encoding for user input"
+  - "Use Content Security Policy (CSP) headers"
+  - "Validate and sanitize all user-supplied data"
+  - "Use HTTPOnly and Secure flags on cookies"
+```
+
+**Proof of Concept:**
+
+![Lab 2 - Stored XSS Proof](labs/xss/lab2-stored-xss-proof.png)
+
+*Figure: Successful XSS payload execution - alert(1) triggered via comment section*
+
+---
 
 ---
 
