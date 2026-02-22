@@ -1,4 +1,7 @@
-# 🛡️ Cogito Ergo Sum 🛡️
+<!-- Banner -->
+<p align="center">
+  <img src="assets/banner.png" alt="Vibhor Prasad Banner" width="100%" />
+</p>
 
 <div align="center">
 
@@ -7,6 +10,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stack-guardian)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](#)
+
+</div>
 
 ---
 
@@ -39,18 +44,6 @@ class CybersecurityStudent:
             "Python for Security Automation",
             "Bug Bounty Hunting Methodologies"
         ]
-    
-    def certifications(self):
-        return [
-            {"name": "CNSP", "score": "85%", "full_name": "Certified Network Security Practitioner"}
-        ]
-    
-    def academics(self):
-        return {
-            "school": "Completed 2023",
-            "pcm_percentage": "80.2%",
-            "expected_graduation": "June 2027"
-        }
 ```
 
 ---
@@ -110,11 +103,9 @@ through lightweight scanning logic.
 
 ---
 
-## 📊 GitHub Cyber-Metrics
+## 📊 GitHub Stats
 
 <div align="center">
-
-### Stack Guardian's GitHub Stats
 
 ![Stack Guardian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stack-guardian&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&icon_color=FF6B35)
 
@@ -122,49 +113,7 @@ through lightweight scanning logic.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stack-guardian&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF)
 
-### GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=stack-guardian&theme=radical&hide_border=true&background=0D1117&stroke=FF6B35)
-
 </div>
-
----
-
-## 🌿 My Contribution Matrix
-
-<div align="center">
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/FF6B35/stack-guardian)
-
-</div>
-
----
-
-## 🎯 Current Objectives
-
-```yaml
-Career Goals:
-  - Secure a stipend-based remote cybersecurity internship
-  - Start: 7th Semester (in ~3-4 months)
-  - Focus: Build practical industry experience
-  - Long-term: High-paying cybersecurity role
-
-Areas of Interest:
-  - Web Application Security
-  - Penetration Testing
-  - Vulnerability Assessment
-  - Security Automation
-  - Bug Bounty Hunting
-```
-
----
-
-## 📜 Certifications & Achievements
-
-| Certification | Score | Year |
-|--------------|-------|------|
-| CNSP (Certified Network Security Practitioner) | 85% | 2025 |
-| Class 12th PCM | 80.2% | 2023 |
 
 ---
 
@@ -178,8 +127,6 @@ Areas of Interest:
 ---
 
 <div align="center">
-
-### 🎓 "The only secure computer is one that's unplugged, locked in a safe, and buried in concrete."
 
 **Open to cybersecurity internships & collaborations!** 🚀
 
