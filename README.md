@@ -1,169 +1,29 @@
-<!--
-  ╔═══════════════════════════════════════════════════════════╗
-  ║                                                           ║
-  ║        VIBHOR PRASAD | Cybersecurity Professional         ║
-  ║                                                           ║
-  ╚═══════════════════════════════════════════════════════════╝
--->
+# Vibhor Prasad | stack-guardian
 
-<div align="center">
+Cybersecurity professional focused on web application penetration testing, offensive security, and security tooling development.
 
-![Banner](assets/banner.png)
+## Connect
+- LinkedIn: https://www.linkedin.com/in/vibhor-prasad-3ba373381/
+- Instagram: https://instagram.com/_.vibhxrr
 
----
+## About
+- Location: Bhopal, India  
+- Education: B.Tech in Cybersecurity (LNCT Group of Colleges, expected June 2027)  
+- Certification: Certified Network Security Practitioner (CNSP) — 85%
 
-### 🔗 Connect With Me
+## Technical Focus
+- Web Application Security Testing (PortSwigger Academy, Burp Suite)  
+- Vulnerability Research and Responsible Disclosure  
+- Python-based security automation and tooling  
+- Bug Bounty Hunting and Proof-of-Concept Development
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.vibhxrr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vibhor-prasad-3ba373381/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stack-guardian)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vibhorprasad14@gmail.com)
+## Projects
+- **HiveRecon** — AI-orchestrated reconnaissance framework for authorized bug bounty and penetration testing engagements.  
+- **Valkyrie** — Linux security monitoring utility with real-time malware detection and automated quarantine.  
+- **bug-bounty-reports** — Structured vulnerability disclosures and PoCs from authorized research.  
+- **Portswigger-lab-notes** — Documented exploitation notes from web security labs.  
 
----
+## Currently Active
+Web application penetration testing, mobile application security research, and development of security utilities.
 
-</div>
-
-## 📜 About Me
-
-```yaml
-name: Vibhor Prasad
-username: stack-guardian
-pronouns: he/him
-location: Bhopal, India
-status: 🟢 Active
-
-education:
-  degree: B.Tech in Cyber Security
-  
-certifications:
-  - name: CNSP (Certified Network Security Practitioner)
-    score: 85%
-
-```
-
----
-
-## 🎯 Currently
-
-```python
-Web Application Security Testing,
-Offensive Security Concepts,
-Vulnerability Assessment & Penetration Testing,
-Security Monitoring Tools Development
-    
-Advanced Web Exploitation (XSS, SQLi, CSRF),
-Network Security & Traffic Analysis,
-Python for Security Automation,
-Bug Bounty Hunting Methodologies
-
-
-     
-```
-
----
-
-## 🛡️ Technical Arsenal
-
-```markdown
-## Programming Languages
-├── Python        ████████████░░  Intermediate
-├── Bash          ████████░░░░░░  Beginner
-└── HTML/CSS/JS   ██████░░░░░░░░  Basic
-
-## Security Tools
-├── Burp Suite    ██████████░░░░  Web Testing
-├── Nmap          ████████████░░  Network Scanning
-├── Wireshark     █████████░░░░░  Traffic Analysis
-├── Hydra         ████████░░░░░░  Password Auditing
-└── Aircrack-ng   ███████░░░░░░░  Wireless Testing
-
-## Platforms & OS
-├── Kali Linux    █████████████░  Daily Driver
-├── VirtualBox    ████████████░░  Virtualization
-└── Git/GitHub    ██████████░░░░  Version Control
-```
-
----
-
-## 🚀 Projects
-
-### 🦅 Valkyrie
-```
-Name:        Valkyrie
-Type:        Security Monitoring Utility
-Platform:    Linux
-Status:      ✅ Completed
-
-Description:
-  A Linux-based security monitoring utility designed to observe 
-  incoming files and system activity to help identify potentially 
-  harmful content using lightweight scanning logic.
-
-Features:
-  • Real-time file monitoring
-  • System activity observation
-  • Lightweight scanning logic
-  • Threat detection alerts
-```
-
----
-
-
-
-## 🔐 Security Domains
-
-```yaml
-Web Application Security:
-  - XSS (Cross-Site Scripting)
-  - SQL Injection (SQLi)
-  - CSRF (Cross-Site Request Forgery)
-  - SSRF (Server-Side Request Forgery)
-  - IDOR (Insecure Direct Object Reference)
-
-Network Security:
-  - Packet Analysis
-  - Traffic Monitoring
-  - Protocol Security
-  - CCNA-level Knowledge
-
-Offensive Security:
-  - Penetration Testing
-  - Vulnerability Assessment
-  - Bug Bounty Hunting
-
-Tools Proficiency:
-  - Burp Suite (Web Testing)
-  - Nmap (Network Scanning)
-  - Wireshark (Traffic Analysis)
-  - Hydra (Password Auditing)
-  - Aircrack-ng (Wireless Testing)
-```
-
----
-
-<div align="center">
-
-### 🎯 Open to Opportunities
-
-**Available for:** Cybersecurity Internships | Bug Bounty Collaborations | Security Research
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vibhor-prasad-3ba373381/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.vibhxrr)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vibhorprasad14@gmail.com)
-
----
-
-<p align="center">
-  <sub>⚔️ Built with 🛡️ and ☕ by Vibhor Prasad | stack-guardian © 2026</sub>
-</p>
-
-</div>
-
-<!--
-  ═══════════════════════════════════════════════════════════
-  
-  "The only secure computer is one that's unplugged, 
-   locked in a safe, and buried in concrete."
-  
-  ═══════════════════════════════════════════════════════════
--->
+© 2024–2026 Vibhor Prasad
