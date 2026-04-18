@@ -70,7 +70,6 @@ Bug Bounty Hunting Methodologies
 ## Programming Languages
 ├── Python        ████████████░░  Intermediate
 ├── Bash          ████████░░░░░░  Beginner
-└── HTML/CSS/JS   ██████░░░░░░░░  Basic
 
 ## Security Tools
 ├── Burp Suite    ██████████░░░░  Web Testing
