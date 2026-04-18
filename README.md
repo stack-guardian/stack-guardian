@@ -79,7 +79,7 @@ Bug Bounty Hunting Methodologies
 └── Aircrack-ng   ███████░░░░░░░  Wireless Testing
 
 ## Platforms & OS
-├── Kali Linux    █████████████░  Daily Driver
+├── Arch Linux    █████████████░  Daily Driver
 ├── VirtualBox    ████████████░░  Virtualization
 └── Git/GitHub    ██████████░░░░  Version Control
 ```
