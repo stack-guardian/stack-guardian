@@ -68,7 +68,7 @@ Bug Bounty Hunting Methodologies
 
 ```markdown
 ## Programming Languages
-├── Python        ████░░░░░░░░░░  Intermediate
+├── Python        ████░░░░░░░░░░  Novice
 ├── Bash          ██████░░░░░░░░  Beginner
 
 ## Security Tools
