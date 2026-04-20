@@ -68,12 +68,12 @@ Bug Bounty Hunting Methodologies
 
 ```markdown
 ## Programming Languages
-├── Python        ████████████░░  Intermediate
-├── Bash          ████████░░░░░░  Beginner
+├── Python        ████░░░░░░░░░░  Intermediate
+├── Bash          ██████░░░░░░░░  Beginner
 
 ## Security Tools
 ├── Burp Suite    ██████████░░░░  Web Testing
-├── Nmap          ████████████░░  Network Scanning
+├── Nmap          ███████░░░░░░░  Network Scanning
 ├── Wireshark     █████████░░░░░  Traffic Analysis
 ├── Hydra         ████████░░░░░░  Password Auditing
 └── Aircrack-ng   ███████░░░░░░░  Wireless Testing
