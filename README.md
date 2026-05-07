@@ -40,6 +40,7 @@ education:
 certifications:
   - name: CNSP (Certified Network Security Practitioner)
     score: 85%
+  - name: Claude 101 & Claude intoduction to MCP
 
 ```
 
@@ -53,7 +54,7 @@ Offensive Security Concepts,
 Vulnerability Assessment & Penetration Testing,
 Security Monitoring Tools Development
     
-Advanced Web Exploitation (XSS, SQLi, CSRF),
+Advanced Web Exploitation (XSS, SQLi, CSRF, SSRF),
 Network Security & Traffic Analysis,
 Python for Security Automation,
 Bug Bounty Hunting Methodologies
@@ -113,7 +114,7 @@ Features:
 Name:        HiveRecon
 Type:        AI-Powered Reconnaissance Framework
 Platform:    Docker / Linux
-Status:      ✅ Completed
+Status:      ✅ Ongoing
 
 Description:
   Automates the full security reconnaissance pipeline for authorized
@@ -168,6 +169,9 @@ Web Application Security:
   - CSRF (Cross-Site Request Forgery)
   - SSRF (Server-Side Request Forgery)
   - IDOR (Insecure Direct Object Reference)
+  - Business Logic Vulnerabilities
+  - Authentication Vulnerabilities
+  - Access Control Vulnerabilities
 
 Network Security:
   - Packet Analysis
